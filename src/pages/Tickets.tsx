@@ -198,6 +198,8 @@ const Tickets = () => {
                 </div>
               </div>
 
+              <p className="text-sm text-muted-foreground mb-6">You'll be emailed the community link upon registering!</p>
+
               <div className="flex gap-4">
                 <Button
                   onClick={() => setSelectedEvent(null)}
